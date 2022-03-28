@@ -3,7 +3,7 @@ This is the implementation of the paper "Correlation Verification for Image Retr
 
 
 <p align="middle">
-    <img src="assets/architecture.png">
+    <img src="assets/CVNet_rerank_architecture.png">
 </p>
 
 TO BE UPDATED
