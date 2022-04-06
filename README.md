@@ -1,4 +1,4 @@
-# Correlation Verification for Image Retrieval [`[`arxiv`]`](https://arxiv.org/abs/2203.16507)
+# Correlation Verification for Image Retrieval [`[`arxiv` ]`](https://arxiv.org/abs/2204.01458)
 
 > [**Correlation Verification for Image Retrieval**](https://arxiv.org/abs/2204.01458)<br>
 > _accept to CVPR 2022 as an oral presentation_ <br>
