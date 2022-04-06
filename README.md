@@ -24,6 +24,6 @@ If you find our paper useful in your research, please cite us using the followin
     title     = {Correlation Verification for Image Retrieval},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
-    year      = {2022},
+    year      = {2022}
 }
 ```
