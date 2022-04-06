@@ -1,12 +1,3 @@
-## Correlation Verification for Image Retrieval
-This is the implementation of the paper "Correlation Verification for Image Retrieval" by Seongwon Lee, Hongje Seong, Suhyeon Lee, and Euntai Kim.
-
-
-<p align="middle">
-    <img src="assets/CVNet_rerank_architecture.jpg">
-</p>
-
-TO BE UPDATED
 # Correlation Verification for Image Retrieval [arxiv](https://arxiv.org/abs/2203.16507)
 
 > [**Correlation Verification for Image Retrieval**](https://arxiv.org/abs/2204.01458)<br>
