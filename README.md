@@ -1,10 +1,12 @@
-# Correlation Verification for Image Retrieval [`[`arxiv` ]`](https://arxiv.org/abs/2204.01458)
+# Correlation Verification for Image Retrieval
 
-> [**Correlation Verification for Image Retrieval**](https://arxiv.org/abs/2204.01458)<br>
-> _accept to CVPR 2022 as an oral presentation_ <br>
-> by Seongwon Lee, Hongje Seong, Suhyeon Lee, and Euntai Kim.<br>
+> Official Pytorch Implementation of the paper "[**Correlation Verification for Image Retrieval**](https://arxiv.org/abs/2204.01458)"<br>
+> _accept to **CVPR 2022** as an **oral presentation**_ <br>
+> by Seongwon Lee, Hongje Seong, Suhyeon Lee, and Euntai Kim<br>
 > Yonsei University
 > 
+
+### Overall architecture
 
 <p align="middle">
     <img src="assets/CVNet_rerank_architecture.jpg">
