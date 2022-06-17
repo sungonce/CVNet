@@ -46,8 +46,8 @@ and for ResNet-101 model, run the command
 python test.py MODEL.DEPTH 101 TEST.WEIGHTS <path-to-R101-pretrained-model> TEST.DATA_DIR <path_to_revisitop>/data/datasets
 ```
 
-## Acknowledgments
-Our pytorch implementation is derived from [HSNet](https://github.com/juhongm999/hsnet) [Revisiting Oxford and Paris](https://github.com/filipradenovic/revisitop) and [DELG-pytorch](https://github.com/feymanpriv/DELG). We thank for these great works and repos.
+## 🙏 Acknowledgments
+Our pytorch implementation is derived from [HSNet](https://github.com/juhongm999/hsnet), [Revisiting Oxford and Paris](https://github.com/filipradenovic/revisitop) and [DELG-pytorch](https://github.com/feymanpriv/DELG). We thank for these great works and repos.
 
 ## ✏️ Citation
 If you find our paper useful in your research, please cite us using the following entry:
